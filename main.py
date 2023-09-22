@@ -19,8 +19,8 @@ def takeCommand():
         print("Sorry, I could not understand your request.")
         return ""
 
-weatherurl = f'https://api.weatherapi.com/v1/current.json?key=9d586641d354445489c155300232508&q=kolkata'#You can change the city(to knew weather) according to your disere
-newsurl = f'https://newsapi.org/v2/top-headlines?country=in&apiKey=32eabd297df849069a19e2983ad35015'
+weatherurl = #add your api key
+newsurl = #add your api key
 
 if __name__ == '__main__':
     print('Jarvis')
